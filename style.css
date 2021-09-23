@@ -22,7 +22,8 @@
 }
 
 .image {
-    margin: auto 33%;
+    display: block;
+    margin: 0 auto;
 }
 
 .steps {
