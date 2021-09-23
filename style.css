@@ -1,0 +1,52 @@
+#brownie {
+    background-color: rgba(97, 46, 3, 0.897);
+}
+
+#chicken{
+    background-color: rgba(168, 233, 233, 0.849);
+}
+
+#lasagna{
+    background-color: rgba(238, 143, 20, 0.89);
+}
+
+.header{
+    font-size: 40px;   
+    text-align: center;
+    background-color: aqua;
+}
+
+.main-list{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.image {
+    margin: auto 33%;
+}
+
+.steps {
+    font-family: monospace;
+}
+
+.list {
+    font-size: 18px;
+}
+
+.sub-header {
+    font-size: 24px;
+}
+
+.ingredients {
+    font-family: Papyrus, Georgia, 'Times New Roman', Times, serif;
+}
+
+.description {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.ingredients {
+    font-family: 'Indie Flower', Papyrus, cursive;
+}
